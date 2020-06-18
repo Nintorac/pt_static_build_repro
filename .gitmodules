@@ -1,12 +1,6 @@
-[submodule "juce"]
-	path = JUCE
-	url = git@github.com:juce-framework/juce
-	branch = juce6
-
-[submodule "pytorch"]
-	path = pytorch
-	url = git@github.com:pytorch/pytorch
-	branch = v1.5.1-rc1
 [submodule "JUCE"]
 	path = JUCE
 	url = git@github.com:JUCE-Framework/juce
+[submodule "pytorch"]
+	path = pytorch
+	url = git@github.com:pytorch/pytorch
